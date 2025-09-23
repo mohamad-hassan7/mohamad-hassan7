@@ -7,16 +7,6 @@ Welcome to my GitHub profile!
 - 🚀 Passionate about bridging research with real-world AI applications  
 - 🛠️ Skilled in Python, C++, Java, and deep learning frameworks  
 
-## 📈 Top Projects
-- **[A Comparative Study of Deep Learning Optimizers: Adam, AdamW, and Adamax](https://github.com/mohamad-hassan7/A-Comparative-Study-of-Deep-Learning-Optimizers-Adam-AdamW-and-Adamax)**  
-  An in-depth exploration of popular deep learning optimizers with practical experiments.
-
-- **[BlindRoomNavigator](https://github.com/mohamad-hassan7/BlindRoomNavigator)**  
-  A navigation assistant to help visually impaired users move safely indoors.
-
-- **[Information-Theory-Compression](https://github.com/mohamad-hassan7/Information-Theory-Compression)**  
-  Implementation of classic information theory and compression algorithms.
-
 ## 📫 How to reach me
 - LinkedIn: [Mohamad Hassan](https://www.linkedin.com/in/mohamad-hassan-1ab83b250/)
 - Email: [mohamed.hassan2022s@gmail.com](mailto:mohamed.hassan2022s@gmail.com)
