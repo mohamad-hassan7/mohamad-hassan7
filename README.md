@@ -1,7 +1,5 @@
 # Hi there, I'm Mohamad Hassan 👋
 
-Welcome to my GitHub profile! 
-
 ## 🚀 About Me
 - 💻 Senior Data Science & AI Student  
 - 🚀 Passionate about bridging research with real-world AI applications  
@@ -10,7 +8,6 @@ Welcome to my GitHub profile!
 ## 📫 How to reach me
 - LinkedIn: [Mohamad Hassan](https://www.linkedin.com/in/mohamad-hassan-1ab83b250/)
 - Email: [mohamed.hassan2022s@gmail.com](mailto:mohamed.hassan2022s@gmail.com)
-- GitHub: [mohamad-hassan7](https://github.com/mohamad-hassan7)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
