@@ -1,13 +1,9 @@
-# Hi there, I'm Mohamad Hassan 👋
+# Hi there, I'm Mohammed Hassan 👋
 
 ## 🚀 About Me
 - 💻 Senior Data Science & AI Student  
 - 🚀 Passionate about bridging research with real-world AI applications  
 - 🛠️ Skilled in Python, C++, Java, and deep learning frameworks  
-
-## 📫 How to reach me
-- LinkedIn: [Mohamad Hassan](https://www.linkedin.com/in/mohamad-hassan-1ab83b250/)
-- Email: [mohamed.hassan2022s@gmail.com](mailto:mohamed.hassan2022s@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -23,4 +19,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-hassan7&layout=compact&theme=radical)
 ---
 
-**Let's innovate together!**
