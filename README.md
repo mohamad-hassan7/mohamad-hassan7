@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Hassan 👋
 
-## 🚀 About Me
+## 🚀 About Me 
 - 💻 Senior Data Science & AI Student  
 - 🚀 Passionate about bridging research with real-world AI applications  
 - 🛠️ Skilled in Python, C++, Java, and deep learning frameworks  
