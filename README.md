@@ -14,8 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Mohamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamad-hassan7&show_icons=true&theme=radical)
+![Mohamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedHassan0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-hassan7&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHassan0&layout=compact&theme=radical)
 ---
 
