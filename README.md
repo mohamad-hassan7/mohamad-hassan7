@@ -17,7 +17,3 @@ Senior Data Science & AI Student passionate about bridging research with real-wo
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-## 📊 GitHub Stats
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedhassan-7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhassan-7&layout=compact&theme=radical)
