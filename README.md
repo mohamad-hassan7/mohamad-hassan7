@@ -1,11 +1,10 @@
 # Hi there, I'm Mohammed Hassan 👋
 
-Senior Data Science & AI Student passionate about bridging research with real-world AI applications. I work across machine learning, deep learning, and software engineering—turning ideas into robust, scalable solutions.
+Senior Data Science & AI Student passionate about bridging research with real-world AI applications. I work across machine learning, deep learning, and software engineering turning ideas into robust, scalable solutions.
 
 ## 🧠 Interests
 - Machine Learning, Deep Learning, Computer Vision, NLP
-- MLOps, Model Optimization, and Deployment
-- Data Engineering and Scalable Systems
+- Model Optimization and Deployment
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
